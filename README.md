@@ -96,7 +96,7 @@ h2 {
 </head>
 <body>
   <header>
-    <h1>Richard Mound</h1>
+    <h1>Richard Mpundu</h1>
     <p>Copywriter for Tech, Fitness, and Personal Brands</p>
     <a class="cta" href="mailto:mpundurichard472@gmail.com">Book Me</a>
   </header>  <section>
